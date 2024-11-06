@@ -21,6 +21,8 @@ Mobile.verifyElementText(findTestObject('Object Repository/Your-CART_Page/Verify
 
 Mobile.delay(GlobalVariable.short_wait)
 
+Mobile.scrollToText('CHECKOUT')
+
 Mobile.tap(findTestObject('Object Repository/Your-CART_Page/Button-CHECKOUT'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)

@@ -31,6 +31,8 @@ Mobile.verifyElementText(findTestObject('Object Repository/CheckOut_Complete/Ver
 
 Mobile.delay(GlobalVariable.short_wait)
 
+Mobile.scrollToText('BACK HOME')
+
 Mobile.tap(findTestObject('Object Repository/CheckOut_Complete/Button_BACK HOME'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)

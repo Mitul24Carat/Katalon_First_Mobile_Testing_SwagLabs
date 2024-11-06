@@ -21,6 +21,8 @@ Mobile.verifyElementText(findTestObject('Object Repository/CheckOut_OverView_Pag
 
 Mobile.delay(GlobalVariable.short_wait)
 
+Mobile.scrollToText('FINISH')
+
 Mobile.tap(findTestObject('Object Repository/CheckOut_OverView_Page/Button_FINISH'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)
