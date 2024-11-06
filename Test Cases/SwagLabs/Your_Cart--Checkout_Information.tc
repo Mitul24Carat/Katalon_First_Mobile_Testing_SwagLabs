@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Your_Cart--Checkout_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5cb7251-e8c0-4f7c-a926-bcb3fba8697f</testCaseGuid>
+</TestCaseEntity>

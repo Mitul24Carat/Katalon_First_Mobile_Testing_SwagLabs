@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout_Complete--Home_Page--Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cdf0ace-dd3b-4fdc-891a-80bd1dd958e6</testCaseGuid>
+</TestCaseEntity>

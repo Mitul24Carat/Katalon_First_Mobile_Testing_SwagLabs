@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Get Login&#xd;
+- Navigate to Dashboard with valid Credentials&#xd;
+- Logout</description>
+   <name>Login--Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3e2ef1d-d6f5-4a3c-a90e-f3e0dd373abd</testCaseGuid>
+</TestCaseEntity>
