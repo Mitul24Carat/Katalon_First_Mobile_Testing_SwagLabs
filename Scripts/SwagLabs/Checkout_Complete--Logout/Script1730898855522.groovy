@@ -17,16 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('SwagLabs/Login--Dashboard'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.callTestCase(findTestCase('SwagLabs/Dashboard--Your_Cart'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.callTestCase(findTestCase('SwagLabs/Your_Cart--Checkout_Information'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.callTestCase(findTestCase('SwagLabs/Checkout_Information--Checkout_Overview'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.callTestCase(findTestCase('SwagLabs/Checkout_Overview--Checkout_Complete'), [:], FailureHandling.STOP_ON_FAILURE)
-
 Mobile.verifyElementText(findTestObject('Object Repository/CheckOut_Complete/Verify-TEXT_THANK YOU FOR YOU ORDER'), GlobalVariable.verify_successful_order_text)
 
 Mobile.delay(GlobalVariable.short_wait)
