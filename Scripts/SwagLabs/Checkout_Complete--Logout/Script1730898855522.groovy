@@ -27,14 +27,13 @@ Mobile.tap(findTestObject('Object Repository/CheckOut_Complete/Button_BACK HOME'
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.tap(findTestObject('Object Repository/SwagLabs_Dashboard_Objects/Side_Drawer'), 0)
+Mobile.tap(findTestObject('Object Repository/Dashboard_Page/Side_Drawer'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.tap(findTestObject('Object Repository/SwagLabs_Dashboard_Objects/Button_LogOut'), 0)
+Mobile.tap(findTestObject('Object Repository/Dashboard_Page/Drawer-Menu_LOGOUT'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
 Mobile.closeApplication()
-
 

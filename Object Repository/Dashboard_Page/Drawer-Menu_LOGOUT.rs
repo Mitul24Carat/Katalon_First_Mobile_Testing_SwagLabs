@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>Button_LogOut</name>
+   <name>Drawer-Menu_LOGOUT</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,23 +13,23 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>44e87653-1719-4683-ac72-49143a988d84</webElementGuid>
+      <webElementGuid>66a6439f-5ebd-42a4-8535-c785784b613d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>4</value>
-      <webElementGuid>f6fb7203-77db-45a8-8c38-9bb7df9be027</webElementGuid>
+      <value>0</value>
+      <webElementGuid>a8e56606-462c-4969-bfb4-7222c27cbe30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>$29.99</value>
-      <webElementGuid>bbacaddb-bd1d-42e4-8a1b-cc9b911f5ad3</webElementGuid>
+      <value>LOGOUT</value>
+      <webElementGuid>150e9c54-6d5f-490c-b69a-4cfb624c7aa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.swaglabsmobileapp</value>
-      <webElementGuid>d2bcdb5e-d946-40b2-b3fe-b7c324f5c240</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>content-desc</name>
-      <type>Main</type>
-      <value>test-Price</value>
-      <webElementGuid>c43de22a-c308-47da-abdf-b8b01e549b8a</webElementGuid>
+      <webElementGuid>e963b11e-9047-4d5e-946d-0ca49e539226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d52ffdc9-5514-43ab-8396-c8c55215a4d2</webElementGuid>
+      <webElementGuid>9c21dbf0-ae4c-421b-aaaa-1b5191d3a88b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f30c9f20-3691-47e7-a2df-c5c230a749d0</webElementGuid>
+      <webElementGuid>49d4bf10-8351-41e6-ad75-a98575621695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>749e7790-d651-4850-87a3-ebfbfce6f32b</webElementGuid>
+      <webElementGuid>b4dc8017-41ee-4890-9f3e-02ee456bb444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>75a24a48-21b0-4c40-918a-5f62ede9e9db</webElementGuid>
+      <webElementGuid>fa7b9039-5e3e-4ecc-8371-9ea9f78f3b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>60018b89-ca10-492e-8aa3-4a175523a8d1</webElementGuid>
+      <webElementGuid>b06474f2-bce3-411f-bd9a-bb785d9d855c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>058b917e-4ce4-4985-85e2-9de18b3ea13a</webElementGuid>
+      <webElementGuid>6d29f450-6220-4020-8a4a-f21133db35a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f1812ded-631b-4cf9-bd71-c5b7d88d123c</webElementGuid>
+      <webElementGuid>ddfd0e94-dcfb-49ad-b33e-4a493534fe12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b8dfe3df-da45-4742-be44-c37866e200eb</webElementGuid>
+      <webElementGuid>45cda25a-fa0f-47ac-a39c-bf6768692a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fb767478-7aba-4cfe-abe6-a2ab60c4ecbf</webElementGuid>
+      <webElementGuid>3d3b9b92-32e4-4ef5-ad30-23d6e7ec8b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +117,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>565429de-d06c-4d68-bfaf-2fe78fa3f0ae</webElementGuid>
+      <webElementGuid>4fc65582-ba3a-4650-9819-7db91853ca91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>44</value>
-      <webElementGuid>b6a9dc28-c950-4a79-a25d-06d384bf534d</webElementGuid>
+      <value>70</value>
+      <webElementGuid>3ea02842-af33-4489-a70c-a8aa5d027586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>907</value>
-      <webElementGuid>52ed4aae-31bd-419c-af9c-64acbc3fd6aa</webElementGuid>
+      <value>1580</value>
+      <webElementGuid>1b78c7c8-9008-4bdd-89fd-354941e5aa2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>284</value>
-      <webElementGuid>a321563f-ca51-45b3-a9dc-7041ea32b153</webElementGuid>
+      <value>1300</value>
+      <webElementGuid>a68334ea-8140-4d95-9dfe-ff28f4c51535</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>50</value>
-      <webElementGuid>61b70a45-b510-49dc-8cfb-dd24506d8c24</webElementGuid>
+      <value>79</value>
+      <webElementGuid>03526d0f-f0be-495e-8601-efd2cb3e982c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[44,907][328,957]</value>
-      <webElementGuid>aea5a5d5-7d73-4686-989e-cce5ccbe1533</webElementGuid>
+      <value>[70,1580][1370,1659]</value>
+      <webElementGuid>864734dc-2d8f-4a1d-8f64-158c84e1fc79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,58 +165,65 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>646f29a5-7bb7-4a64-9734-f7e5936aeb74</webElementGuid>
+      <webElementGuid>c876f8b3-bdf5-4ce1-acf6-f883d77e936e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[3]</value>
-      <webElementGuid>37ceb11b-5265-482f-b3ae-c3cc8058913e</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[8]/android.widget.TextView[1]</value>
+      <webElementGuid>a0c6c1ad-c7b0-4642-9e56-f16fe32ef806</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = '$29.99' or . = '$29.99')]</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'LOGOUT' or . = 'LOGOUT')]</locator>
    <locatorCollection>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).description(&quot;test-Price&quot;).text(&quot;$29.99&quot;).packageName(&quot;com.swaglabsmobileapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(4)</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.TextView' and (@text = 'LOGOUT' or . = 'LOGOUT')]</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>test-Price</value>
+         <value></value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>ID</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[3]</value>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.TextView</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>IOS_CLASS_CHAIN</key>
+         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>IOS_PREDICATE_STRING</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;LOGOUT&quot;).packageName(&quot;com.swaglabsmobileapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value></value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.TextView' and (@text = '$29.99' or . = '$29.99')]</value>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[8]/android.widget.TextView[1]</value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
+         <key>NAME</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

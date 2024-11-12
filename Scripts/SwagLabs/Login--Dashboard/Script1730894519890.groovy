@@ -22,16 +22,16 @@ Mobile.startApplication('D:\\Silver Touch_MP\\Softwares\\Katalon\\SauceDemo_APK\
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.setText(findTestObject('Object Repository/SwagLabs_Login_Page_Objects/Username'), GlobalVariable.username, 0)
+Mobile.setText(findTestObject('Object Repository/Login_Page/Username'), GlobalVariable.username, 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/SwagLabs_Login_Page_Objects/Password'), GlobalVariable.password, 
+Mobile.setEncryptedText(findTestObject('Object Repository/Login_Page/Password'), GlobalVariable.password, 
     0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.tap(findTestObject('Object Repository/SwagLabs_Login_Page_Objects/Button_LOGIN'), 0)
+Mobile.tap(findTestObject('Object Repository/Login_Page/Button_LOGIN'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
