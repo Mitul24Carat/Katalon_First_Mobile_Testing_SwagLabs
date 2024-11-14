@@ -20,18 +20,18 @@ import org.openqa.selenium.Keys as Keys
 Mobile.startApplication('D:\\Silver Touch_MP\\Softwares\\Katalon\\SauceDemo_APK\\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk', 
     false)
 
+// Remote (Browserstack) URL
+//Mobile.startApplication('bs://a6c0485821c15cfb0b23f1b7b7983370dfaa28dc', false)
 Mobile.delay(GlobalVariable.short_wait)
 
 Mobile.setText(findTestObject('Object Repository/Login_Page/Username'), GlobalVariable.username, 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Login_Page/Password'), GlobalVariable.password, 
-    0)
+Mobile.setEncryptedText(findTestObject('Object Repository/Login_Page/Password'), GlobalVariable.password, 0)
 
 Mobile.delay(GlobalVariable.short_wait)
 
 Mobile.tap(findTestObject('Object Repository/Login_Page/Button_LOGIN'), 0)
 
 Mobile.delay(GlobalVariable.short_wait)
-
